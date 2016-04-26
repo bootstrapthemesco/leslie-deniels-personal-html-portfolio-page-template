@@ -1,0 +1,78 @@
+
+
+@font-face {
+    font-family: 'santelia_rough_altbold_thrdmo';
+    src: url('../fonts/santeliaroughaltboldthrdemo.eot');
+    src: url('../fonts/santeliaroughaltboldthrdemo.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/santeliaroughaltboldthrdemo.woff2') format('woff2'),
+         url('../fonts/santeliaroughaltboldthrdemo.woff') format('woff'),
+         url('../fonts/santeliaroughaltboldthrdemo.ttf') format('truetype'),
+         url('../fonts/santeliaroughaltboldthrdemo.svg#santelia_rough_altbold_thrdmo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'santelia_roughline';
+    src: url('../fonts/santeliaroughline.eot');
+    src: url('../fonts/santeliaroughline.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/santeliaroughline.woff2') format('woff2'),
+         url('../fonts/santeliaroughline.woff') format('woff'),
+         url('../fonts/santeliaroughline.ttf') format('truetype'),
+         url('../fonts/santeliaroughline.svg#santelia_roughline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'santelia_roughline_thr';
+    src: url('../fonts/santeliaroughlinethr.eot');
+    src: url('../fonts/santeliaroughlinethr.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/santeliaroughlinethr.woff2') format('woff2'),
+         url('../fonts/santeliaroughlinethr.woff') format('woff'),
+         url('../fonts/santeliaroughlinethr.ttf') format('truetype'),
+         url('../fonts/santeliaroughlinethr.svg#santelia_roughline_thr') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'santelia_roughline_two';
+    src: url('../fonts/santeliaroughlinetwo.eot');
+    src: url('../fonts/santeliaroughlinetwo.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/santeliaroughlinetwo.woff2') format('woff2'),
+         url('../fonts/santeliaroughlinetwo.woff') format('woff'),
+         url('../fonts/santeliaroughlinetwo.ttf') format('truetype'),
+         url('../fonts/santeliaroughlinetwo.svg#santelia_roughline_two') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'santelia_scriptbold_dmo';
+    src: url('../fonts/santeliascriptbolddemo.eot');
+    src: url('../fonts/santeliascriptbolddemo.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/santeliascriptbolddemo.woff2') format('woff2'),
+         url('../fonts/santeliascriptbolddemo.woff') format('woff'),
+         url('../fonts/santeliascriptbolddemo.ttf') format('truetype'),
+         url('../fonts/santeliascriptbolddemo.svg#santelia_scriptbold_dmo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
